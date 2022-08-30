@@ -108,6 +108,6 @@ deploy:
 backup:
     type: git
     message: 备份
-    repository:
-       github: git@github.com:changrisheng/changrisheng.github.io.git,backups
+    repository: git@github.com:changrisheng/changrisheng.github.io.git,backups
+      #  github: git@github.com:changrisheng/changrisheng.github.io.git,backups
       #  gitcafe: git@github.com:changrisheng/changrisheng.github.io.git,backups
