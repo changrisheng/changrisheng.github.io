@@ -1,0 +1,59 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、簡單且強大的網誌框架
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: 牛掰的HEXO模板，膜拜
+
+- class_name: 自己收藏，整理，如有侵权，马上删除
+  class_desc: 学习网站
+  link_list:
+    - name: 博客园
+      link: https://www.cnblogs.com/kismetv/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/cnblogs.png
+      descr: 编程迷思
+    - name: 阿飞云
+      link: https://blog.csdn.net/u010648555/article/details/89766108
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/csdn.png
+      descr: 你读过的书，藏着自己的命运
+    - name: Jeffrey
+      link: https://segmentfault.com/a/1190000014948542
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/Jeffrey.png
+      descr: 深入解析 composer
+    - name: 川川菜鸟
+      link: https://blog.csdn.net/weixin_46211269/article/details/120604267?utm_medium=distribute.pc_feed_v2.none-task-blog-hot_rank_bottoming-17.pc_personrecdepth_1-utm_source=distribute.pc_feed_v2.none-task-blog-hot_rank_bottoming-17.pc_personrec
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/cccn.png
+      descr: Linux shell详细教程
+    - name: 赵克立
+      link: https://www.zhaokeli.com/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/zhaokeli.jpg
+      descr: 牛掰克拉斯
+    - name: 叶洛阁
+      link: https://yelog.org/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/yelog.jpg
+      descr: 牛掰克拉斯
+    - name: 杨攀遥
+      link: https://www.yangpanyao.com/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/yangpanyao.png
+      descr: 牛掰克拉斯
+    - name: guaosi
+      link: https://www.guaosi.com/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/guaosi.png
+      descr: 白茶清欢无别事，我在等风也等你
+    - name: netnr
+      link: https://www.netnr.com/
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/netnr.ico
+      descr: 牛掰克拉斯
+
+- class_name: B站
+  class_desc: 喜欢的B站博主
+  link_list:
+    - name: 破产兄弟BrokeBros
+      link: https://space.bilibili.com/37992622
+      avatar: https://cdn.jsdelivr.net/gh/changrisheng/cdn@master/img/link/BrokeBros.jpg
+      descr: 用镜头和脚步，朗读中国和世界。
