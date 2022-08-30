@@ -110,4 +110,4 @@ backup:
     message: 备份
     repository:
        github: git@github.com:changrisheng/changrisheng.github.io.git,backups
-       gitcafe: git@github.com:changrisheng/changrisheng.github.io.git,backups
+      #  gitcafe: git@github.com:changrisheng/changrisheng.github.io.git,backups
