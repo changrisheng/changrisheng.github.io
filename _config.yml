@@ -102,11 +102,42 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git 
+  repo: git@github.com:changrisheng/changrisheng.github.io.git
+  branch: master 
 
 # 备份博客
 backup:
     type: git
     repository:
        origin: git@github.com:changrisheng/changrisheng.github.io.git,backups
-       gitcafe: git@github.com:changrisheng/changrisheng.github.io.git,backups
+
+# APlayer
+# https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
+aplayer:
+  meting: true
+  asset_inject: false
+
+#哔哩哔哩番剧
+bangumi:
+  enable: true
+  vmid: 448107699
+  title: '生命不息，追番不止。'
+  quote: 'Where there is life, there is life.'
+  show: 1
+  loading: '/img/bangumi-loading.gif'
+
+#豆瓣
+douban:
+  user: 223867058
+  builtin: false
+  book:
+    title: '腹有诗书气自华'
+    quote: 'One who is filled with knowledge always behaves with elegance.'
+  movie:
+    title: '梦想与现实的碰撞'
+    quote: 'The collision between dream and reality.'
+  game:
+    title: '诅咒中闪烁泪光，倾诉霜之哀伤。'
+    quote: 'Tears flicker in the curse and pour out the sorrow of frost.'
+  timeout: 10000
